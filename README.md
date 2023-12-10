@@ -3,7 +3,7 @@
 
 - You can develop the final project locally by setting up your own Python runtime and IDE
 - You may choose any cloud platform for deployment
-- Depends on your deployment, you may choose any SQL database Django supported such as SQLite3, PostgreSQL, and MySQL
+- Depend on your deployment, you may choose any SQL database Django supported such as SQLite3, PostgreSQL, and MySQL
 
 **ER Diagram**
 For your reference, we have prepared the ER diagram design for the new assesement feature.
